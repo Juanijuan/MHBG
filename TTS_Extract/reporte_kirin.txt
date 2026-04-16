@@ -1,0 +1,113 @@
+REPORTE DE EXTRACCIÓN KIRIN
+============================================================
+
+ENCONTRADAS
+------------------------------
+URL: https://steamusercontent-a.akamaihd.net/ugc/1847053979871412124/E57271E586374C3446FCCB4E47570D0985AD1912/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc1847053979871412124E57271E586374C3446FCCB4E47570D0985AD1912.png
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/1852683122486869221/575DB67CAE1226F800D335D56934F54EC68BBE01/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc1852683122486869221575DB67CAE1226F800D335D56934F54EC68BBE01.png
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/1852683122487213618/C4836628B9499811722819536100F808CA70DDA6/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc1852683122487213618C4836628B9499811722819536100F808CA70DDA6.png
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/2040735491764365157/33E23C065DF118646375EE15F75E53A88A694F42/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc204073549176436515733E23C065DF118646375EE15F75E53A88A694F42.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/2040735491764365204/72877330C8E667D8E10728B5F0084049AA31186B/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc204073549176436520472877330C8E667D8E10728B5F0084049AA31186B.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/2040735491764365252/0F018484095C1357BD1844E44A19924FD840088D/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc20407354917643652520F018484095C1357BD1844E44A19924FD840088D.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/2040735491774983356/5F1DA0A21E4F2C044EB34CC1F4817893171E4F08/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc20407354917749833565F1DA0A21E4F2C044EB34CC1F4817893171E4F08.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/2040735491775072430/FF058C82F62AC945049FA0FCE59399EF37C4D6F1/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc2040735491775072430FF058C82F62AC945049FA0FCE59399EF37C4D6F1.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/2040735491775073641/26A8567386A7E9EEA171320DA1CFCE204A753AC1/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc204073549177507364126A8567386A7E9EEA171320DA1CFCE204A753AC1.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/2175861708799137886/59142B928CAAF59942D9A6E50F82949BDB2A0105/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc217586170879913788659142B928CAAF59942D9A6E50F82949BDB2A0105.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666504639/9761F1C9FA93DB6F6C718F4F00BFDC79D0E90490/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc265633826665046399761F1C9FA93DB6F6C718F4F00BFDC79D0E90490.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666504655/727911DEF39BF5213E448C30549AC7B48633A532/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666504655727911DEF39BF5213E448C30549AC7B48633A532.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666504726/11605A7EAE650C81E5A5499B68F42FFC72937E10/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc2656338266650472611605A7EAE650C81E5A5499B68F42FFC72937E10.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666504968/57305A8D6EC99C6EA3648CF2D7BFF0F3B7F1526D/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc2656338266650496857305A8D6EC99C6EA3648CF2D7BFF0F3B7F1526D.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505000/AB8F9B654220A25F6D59AC09989F6D9B0A203300/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505000AB8F9B654220A25F6D59AC09989F6D9B0A203300.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505024/66688E12E69E13C0C4E3202AE66A2FB263EEA77B/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc2656338266650502466688E12E69E13C0C4E3202AE66A2FB263EEA77B.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505049/DCD0ABF3F0561D39126249DDCDF350FEAA497D51/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505049DCD0ABF3F0561D39126249DDCDF350FEAA497D51.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505062/D55DFF47B73028CC7619F19F1D524FC2D2CE5A4F/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505062D55DFF47B73028CC7619F19F1D524FC2D2CE5A4F.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505075/A2F0DE7AE39F38CAA85CB7D2F1C1AAF3F25AF34E/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505075A2F0DE7AE39F38CAA85CB7D2F1C1AAF3F25AF34E.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505083/AC2A06DB8BE730F28A01AF67537836EFF6A49CC0/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505083AC2A06DB8BE730F28A01AF67537836EFF6A49CC0.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505105/E1BCCB18FAE0940D1957E0C6AA2194374C014703/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505105E1BCCB18FAE0940D1957E0C6AA2194374C014703.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505112/EAFB2E5B36804E2374F494F67FD50D1187658BD6/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505112EAFB2E5B36804E2374F494F67FD50D1187658BD6.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505156/E8647074869B6F17432B2541E710CB39D32FC4C1/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505156E8647074869B6F17432B2541E710CB39D32FC4C1.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505211/D5E095CE7BA47325C432519DA20825844545F95D/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505211D5E095CE7BA47325C432519DA20825844545F95D.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505219/FC0D81DBA0E41E25FFE88BAB1A722588AB1ED286/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505219FC0D81DBA0E41E25FFE88BAB1A722588AB1ED286.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505385/B098D1F3B62BF74809362DE5CD719327F30B0036/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505385B098D1F3B62BF74809362DE5CD719327F30B0036.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505442/547B32D5F2CBFE6228EBCAFD0EA8E499D2D1289D/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505442547B32D5F2CBFE6228EBCAFD0EA8E499D2D1289D.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505451/05CB1F93411F110E9CB073E38303FC74582D9CE9/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc2656338266650545105CB1F93411F110E9CB073E38303FC74582D9CE9.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505464/4B33C02AB621A7591F6E1705FF3AD4A99EFFD64C/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc265633826665054644B33C02AB621A7591F6E1705FF3AD4A99EFFD64C.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505489/962C0E6B7CE8FDA639D679831F4F67912386F00C/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505489962C0E6B7CE8FDA639D679831F4F67912386F00C.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505509/7AC36C56CF181BF6EC82EE4F1A12139639DCBBBA/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc265633826665055097AC36C56CF181BF6EC82EE4F1A12139639DCBBBA.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563382666505531/489F2D577776CCA3AD2337928D5D5ED7A7C0B39B/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563382666505531489F2D577776CCA3AD2337928D5D5ED7A7C0B39B.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563898568756119/64F520CCF7F2FEF9E19E19B15BEBDEA18C3B81CC/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc2656389856875611964F520CCF7F2FEF9E19E19B15BEBDEA18C3B81CC.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563898568756168/AC07B309111741E972181674DD18B43B67293767/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc26563898568756168AC07B309111741E972181674DD18B43B67293767.jpg
+
+URL: https://steamusercontent-a.akamaihd.net/ugc/26563898568756202/51FFC25FBC5C77573C19AAC510F3B3993C6114DB/
+  -> C:\Users\juani\Documents\Kirin_Assets\httpssteamusercontentaakamaihdnetugc2656389856875620251FFC25FBC5C77573C19AAC510F3B3993C6114DB.jpg
+
+
+NO ENCONTRADAS
+------------------------------

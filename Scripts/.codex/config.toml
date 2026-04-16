@@ -1,0 +1,50 @@
+model = "gpt-5-codex"
+
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
+
+[project]
+name = "MHBG - Monster Hunter Board Game Custom Project"
+
+[instructions]
+text = """
+Proyecto en Windows para extraer, organizar y reconstruir contenido de Monster Hunter World: The Board Game a partir de un mod de Tabletop Simulator.
+
+Rutas importantes del proyecto:
+- Proyecto y scripts: C:\\Users\\juani\\Documents\\MHBG\\Scripts\\
+- JSON completo del mod TTS: C:\\Users\\juani\\Documents\\MHBG\\Scripts\\mods.json
+- Recursos extraídos de cartas e imágenes: C:\\Users\\juani\\Documents\\MHBG\\TTS_Extract\\
+- Modelos 3D extraídos: C:\\Users\\juani\\Documents\\MHBG\\Modelos 3d\\
+- Carpeta personal del usuario que no debe tocarse jamás: C:\\Users\\juani\\Documents\\MHBG\\Imprimir\\
+
+Reglas de trabajo:
+- No tocar nunca nada dentro de la carpeta Imprimir.
+- No cambiar rutas sin preguntarlo antes.
+- Usar siempre pathlib en scripts Python.
+- Mantener scripts parametrizados mediante constantes al inicio o argumentos claros.
+- Antes de modificar código, explicar qué archivo vas a cambiar y por qué.
+- Preferir scripts reutilizables frente a scripts de un solo uso.
+- Cuando una búsqueda pueda devolver muchos resultados, generar primero reporte JSON o TXT.
+- No sobrescribir archivos existentes salvo petición explícita.
+- El entorno es Windows y los scripts se ejecutan desde VS Code con Python local.
+
+Patrones relevantes de Tabletop Simulator:
+- Las imágenes descargadas suelen estar en:
+  - Documents\\My Games\\Tabletop Simulator\\Mods\\Images
+  - Documents\\My Games\\Tabletop Simulator\\Mods\\Raw Images
+- Los modelos descargados suelen estar en:
+  - Documents\\My Games\\Tabletop Simulator\\Mods\\Models
+- En el JSON, los modelos suelen estar en CustomMesh con campos:
+  - MeshURL
+  - DiffuseURL
+  - ColliderURL
+  - NormalURL
+- Las cartas pueden aparecer como imágenes individuales o como hojas/decks.
+
+Objetivos habituales:
+- Extraer cartas por monstruo o por string
+- Copiar imágenes desde caché local de TTS
+- Cortar hojas de cartas en cartas individuales
+- Extraer modelos 3D y separar mesh, textura y collider
+- Organizar monstruos y recursos de forma reutilizable
+"""

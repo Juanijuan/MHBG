@@ -7,7 +7,6 @@ This project is aimed at modelers, painters, graphic designers, and makers who w
 - launches a no-console desktop UI
 - extracts matching card data from `mods.json`
 - imports matching image files from the local TTS cache
-- renames imported images with readable names such as `Kirin_1`, `Kirin_2`, and so on
 - extracts matching 3D model files from the local TTS cache
 - includes official Steamforged scale notes when available
 - cuts card sheets into a rows x columns grid with an image preview and Windows file picker
@@ -53,7 +52,7 @@ What each folder is for:
 - Windows
 - Python 3.10 or newer
 - Tabletop Simulator installed locally
-- a local `mods.json` export placed at `Input/mods.json`
+- a local `mods.json` export placed at `Input/mods.json` using TTS Mod Backup (https://www.nexusmods.com/tabletopsimulator/mods/263)
 
 Python packages:
 

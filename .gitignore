@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Local input data
+Input/mods.json
+
+# Generated outputs
+Outputs/
+TTS_Extract/
+Modelos_3d/
+Modelos 3d/
+Imprimir/
+
+# Local tools and scratch dependencies
+Tools/
+
+# Legacy internal files
+Scripts/.codex/
+Scripts/README-CODEX.md
+
+# OS / misc
+Thumbs.db
+Desktop.ini

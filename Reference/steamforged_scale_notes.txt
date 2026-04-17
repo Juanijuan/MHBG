@@ -1,0 +1,115 @@
+QUICK REFERENCE - OFFICIAL HEIGHTS AND PRINTING NOTES
+Monster Hunter World: The Board Game
+Updated: 2026-04-17
+
+NOTE
+- This file keeps only the most useful Steamforged scale references.
+- It also includes a practical FDM starting point for a Bambu Lab A1 Mini with a 0.2 mm nozzle.
+
+============================================================
+1. OFFICIAL HEIGHTS AND SCALE REFERENCES
+============================================================
+
+HUNTERS
+- Hunter miniatures: 33 mm tall including the base.
+
+MONSTERS
+- Teostra: 100 mm tall including the base.
+- Nergigante: 160 mm tall including the base.
+- Kushala Daora: more than 255 mm tall.
+- Kushala Daora: wingspan greater than 1 foot.
+
+OFFICIAL BASE REFERENCES
+- Kulu-Ya-Ku: 60 mm base.
+- Core set monsters: usually 100-120 mm bases.
+- Diablos: 120 mm base.
+- Teostra: 120 mm base.
+- Nergigante: 120 mm base.
+- Kirin: 100 mm base.
+
+QUICK SCALE GUIDE FOR CUSTOM PRINTS
+- Hunters: target 33 mm total height including the base.
+- Teostra: target 100 mm total height including the base.
+- Nergigante: target 160 mm total height including the base.
+- Kushala Daora: target above 255 mm total height with a very large wingspan.
+- Monsters without a confirmed official height: use the official base diameter as the main scale reference.
+
+============================================================
+2. RECOMMENDED SETTINGS - BAMBU LAB A1 MINI, 0.2 MM NOZZLE
+============================================================
+
+RECOMMENDED MATERIAL
+- Fine, clean PLA or PLA Matte.
+- Avoid abrasive blends, heavy glitter, wood-fill, or fiber-filled filaments.
+- PLA is the safest starting point for this printer and nozzle size.
+
+STARTING POINT IN BAMBU STUDIO
+- Use the A1 Mini printer profile with a 0.2 mm nozzle.
+- Use one of these layer presets:
+- 0.06 mm for maximum detail.
+- 0.08 mm for a better balance of detail and print time.
+- For small miniatures, 0.06 mm is the best default.
+
+RECOMMENDED SETTINGS
+- Layer height: 0.06 mm for hunters, weapons, faces, and fingers.
+- Layer height: 0.08 mm for medium or large monsters when you want faster prints.
+- First layer height: 0.12 mm.
+- Wall loops: 3.
+- Top shell layers: 5.
+- Bottom shell layers: 4.
+- Infill: 12% gyroid for normal miniatures.
+- Infill: 8% when the model already has a thick base.
+- Infill: 15% for large monsters with heavy wings or tails.
+- Sparse infill pattern: gyroid.
+- Detect thin walls: enabled.
+- Arachne wall generator: enabled.
+- Seam: back or nearest, depending on the part.
+- Outer wall speed: 25 mm/s.
+- Inner wall speed: 40 mm/s.
+- Small perimeters: 15-20 mm/s.
+- Sparse infill speed: 60 mm/s.
+- Travel speed: 180 mm/s.
+- Acceleration: low or moderate, favoring quality over speed.
+- Cooling: 100% after the first layers when printing PLA.
+- Nozzle temperature: 205-215 C as a starting range for PLA.
+- If you see under-extrusion with a 0.2 mm nozzle, raise the nozzle temperature by 5 C.
+- Bed temperature: 55-60 C on Smooth PEI.
+- Bed temperature: 55-65 C on Textured PEI.
+
+============================================================
+3. SUPPORTS
+============================================================
+
+GENERAL RECOMMENDATION
+- Support type: tree supports.
+- Build plate only: enabled whenever possible.
+- Overhang threshold: 25-35 degrees for weapons, wings, and tails.
+- Overhang threshold: 35-45 degrees if you want fewer marks and the model is already well oriented.
+- Support density: 12-15%.
+- Support interface: enabled.
+- Interface layers: 3.
+- Top Z distance: 0.16 mm.
+- Bottom Z distance: 0.16 mm.
+- XY distance: start around 0.2-0.25 mm.
+
+ORIENTATION
+- Rotate the miniature so the face and front details need as little support as possible.
+- Hide seams and support scars on the back whenever you can.
+- For long weapons or tails, angle the model slightly instead of printing it perfectly flat.
+
+============================================================
+4. PAINTING AND DETAIL GOALS
+============================================================
+
+- Hunters at 33 mm should keep readable faces, weapon edges, and hands.
+- Large monsters should prioritize silhouette, head readability, claws, horns, and wing edges.
+- If a print is too soft, improve orientation before increasing scale.
+- If a part is too fragile, thicken the model slightly before scaling the entire miniature up.
+
+============================================================
+5. PRACTICAL RULE OF THUMB
+============================================================
+
+- Use the official height when it is known.
+- If the exact height is not known, use the official base diameter as the main guide.
+- Print one fast draft first, compare it against a known hunter miniature, and then lock the final scale.

@@ -1,7 +1,5 @@
 # MHBG Asset Toolkit
 
-Windows-first desktop toolkit for extracting Monster Hunter World: The Board Game assets from a local Tabletop Simulator cache.
-
 This project is aimed at modelers, painters, graphic designers, and makers who want a simple workflow without digging through scripts by hand.
 
 ## What It Does

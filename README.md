@@ -284,7 +284,9 @@ Pull requests and issue reports are welcome, especially for:
 - This toolkit is an unofficial community project.
 - It is not affiliated with Capcom, Steamforged Games, or Berserk Games.
 - Only extract, print, share, or redistribute files you are allowed to use.
+- The `LICENSE` file applies to the toolkit source code and documentation in this repository.
+- It does not grant rights over third-party assets, trademarks, game content, cached files, or extracted data.
 
 ## License
 
-No license file is included by default. Add one before publishing if you want clear reuse terms for the community.
+This repository uses the MIT license for the toolkit code and documentation only. See `LICENSE` for the full text.
